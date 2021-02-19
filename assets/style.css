@@ -15,7 +15,7 @@ body {
   height: 75px;
   font-family: "Verdana";
   font-size: 23px;
-  border-bottom: 15px solid darkblue;
+  border-bottom: 15px solid rgb(2, 2, 88);
   background-color: lightskyblue;
   color: #ffffff;
 }
